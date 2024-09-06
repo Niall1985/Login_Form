@@ -55,6 +55,11 @@ input {
 
 }
 
+a1{
+    color:white;
+    text-decoration: none;
+}
+
 input::placeholder{
     color: white;
 }
